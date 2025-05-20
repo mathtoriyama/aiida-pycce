@@ -29,7 +29,8 @@ Installation
 
 Code Setup
 ==========
-Please create the code using the `PyCCE_Wrapper_2D.py` script provided in the `code` directory. An example configuration file is also provided. Please ensure that the configuration file is tailored to your specific system. The code can be created using the command:
+Please create the code using the `PyCCE_Wrapper_2D.py` script in the `code` directory. An example configuration file `code_setup_pycce2d.yml` is also provided. Please ensure that it's tailored to your specific system. The code can be created using the command:
+
     ```
     verdi code create core.code.installed --config code_setup_pycce2d.yml
     ```
