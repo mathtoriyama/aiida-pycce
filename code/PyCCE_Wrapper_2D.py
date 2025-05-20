@@ -1,4 +1,4 @@
-#!/scratch/midway3/toriyama/miniconda3/envs/pycce/bin/python
+#!/path/to/pycce_env/bin/python
 
 import os, sys
 from mpi4py import MPI
