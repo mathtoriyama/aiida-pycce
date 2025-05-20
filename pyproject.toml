@@ -1,0 +1,23 @@
+[build-system]
+# build the package with [flit](https://flit.readthedocs.io)
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+# See https://www.python.org/dev/peps/pep-0621/
+name = "aiida-pycce"
+version = "0.5.0"
+description = "AiiDA plugin for running PyCCE."
+authors = [{name = "Michael Toriyama", email = "toriyama@uchicago.edu"}]
+dependencies = [
+    "aiida-core>=2.6,<3",
+]
+
+[project.entry-points."aiida.calculations"]
+"aiida.pycce" = "aiida_pycce.calculations.aiida_pycce:PyCCECalculation"
+
+[project.entry-points."aiida.parsers"]
+"aiida.pycce" = "aiida_pycce.parsers.aiida_pycce:PyCCEParser"
+
+[tool.flit.module]
+name = "aiida_pycce"
