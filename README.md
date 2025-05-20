@@ -16,6 +16,7 @@ Please also remember to cite:
 - *Workflows in AiiDA: Engineering a high-throughput, event-based engine for robust and modular computational workflows*
     [M. Uhrin, et al., Comput. Mater. Sci., 187, 110086 (2021)](https://www.sciencedirect.com/science/article/pii/S0927025620305772?via%3Dihub)
 
+
 Installation
 ============
 - Download all source files
@@ -25,10 +26,14 @@ Installation
 - Install
     - `pip install .`
 
+
 Code Setup
 ==========
-Please create the code using the `PyCCE\_Wrapper\_2D.py` script. An example configuration file is provided in the `code` directory. The code can be created using the command:
-`verdi code create core.code.installed --config code_setup_pycce2d.yml`
+Please create the code using the `PyCCE_Wrapper_2D.py` script provided in the `code` directory. An example configuration file is also provided. Please ensure that the configuration file is tailored to your specific system. The code can be created using the command:
+    ```
+    verdi code create core.code.installed --config code_setup_pycce2d.yml
+    ```
+For more information, check out the [online guide](https://aiida.readthedocs.io/projects/aiida-core/en/stable/howto/run_codes.html#how-to-create-a-code) on the AiiDA website.
 
 
 Getting Started
