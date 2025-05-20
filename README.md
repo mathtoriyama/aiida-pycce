@@ -25,6 +25,12 @@ Installation
 - Install
     - `pip install .`
 
+Code Setup
+==========
+Please create the code using the `PyCCE\_Wrapper\_2D.py` script. An example configuration file is provided in the `code` directory. The code can be created using the command:
+`verdi code create core.code.installed --config code_setup_pycce2d.yml`
+
+
 Getting Started
 ===============
 

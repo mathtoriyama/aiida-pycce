@@ -1,0 +1,15 @@
+---
+label: 'pycce2d'
+default_calc_job_plugin: 'aiida.pycce'
+filepath_executable: '/path/to/PyCCE_Wrapper_2D.py'
+computer: 'computer_name'
+with_mpi: 'True'
+prepend_text: |
+   module load X
+   module load Y
+   module load Z
+   
+   conda deactivate
+   conda activate pycce_env
+append_text: ' '
+
