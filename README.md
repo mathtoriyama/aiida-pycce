@@ -33,6 +33,8 @@ Please create the code using the `PyCCE_Wrapper_2D.py` script in the `code` dire
 
     verdi code create core.code.installed --config code_setup_pycce2d.yml
 
+Please also remember to update the first line of `PyCCE_Wrapper_2D.py`.
+
 For more information, check out the [online guide](https://aiida.readthedocs.io/projects/aiida-core/en/stable/howto/run_codes.html#how-to-create-a-code) on the AiiDA website.
 
 
