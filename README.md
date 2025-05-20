@@ -38,9 +38,9 @@ Please also remember to update the first line of `PyCCE_Wrapper_2D.py`.
 For more information, check out the [online guide](https://aiida.readthedocs.io/projects/aiida-core/en/stable/howto/run_codes.html#how-to-create-a-code) on the AiiDA website.
 
 
-Getting Started
-===============
-
+Usage
+=====
+Check out the `HT_2D_Hosts.py` script in the `examples` folder.
 
 
 Acknowledgements
