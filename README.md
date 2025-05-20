@@ -30,9 +30,9 @@ Installation
 Code Setup
 ==========
 Please create the code using the `PyCCE_Wrapper_2D.py` script provided in the `code` directory. An example configuration file is also provided. Please ensure that the configuration file is tailored to your specific system. The code can be created using the command:
-    ```
-    verdi code create core.code.installed --config code_setup_pycce2d.yml
-    ```
+        ```
+        verdi code create core.code.installed --config code_setup_pycce2d.yml
+        ```
 For more information, check out the [online guide](https://aiida.readthedocs.io/projects/aiida-core/en/stable/howto/run_codes.html#how-to-create-a-code) on the AiiDA website.
 
 
