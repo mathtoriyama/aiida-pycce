@@ -35,7 +35,7 @@ Please create the code using the `PyCCE_Wrapper_2D.py` script in the `code` dire
 
 Please also remember to update the first line of `PyCCE_Wrapper_2D.py`.
 
-For more information, check out the [online guide](https://aiida.readthedocs.io/projects/aiida-core/en/stable/howto/run_codes.html#how-to-create-a-code) on the AiiDA website.
+For more information, check out the [online guide](https://aiida.readthedocs.io/projects/aiida-core/en/stable/howto/run_codes.html#how-to-create-a-code) on how to create external codes on AiiDA.
 
 
 Usage
