@@ -1,7 +1,7 @@
 Welcome to AiiDA-PyCCE!
 =======================
 
-AiiDA-PyCCE is a plugin for running the [PyCCE code](https://pycce.readthedocs.io/en/latest/) in a high-throughput manner using the [AiiDA](https://www.aiida.net/) framework.
+AiiDA-PyCCE is a plugin for running the [PyCCE](https://pycce.readthedocs.io/en/latest/) code in a high-throughput manner using the [AiiDA](https://www.aiida.net/) framework.
 
 If you use AiiDA-PyCCE, please remember to cite:
 
