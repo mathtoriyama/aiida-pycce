@@ -103,7 +103,7 @@ class Chain_PyCCE(WorkChain):
     def Initialize(self):
         
         # Create temporary folder to store data files (if necessary)
-        self.ctx.tmp_folder = "/home/toriyama/.tmp"
+        self.ctx.tmp_folder = f"{os.path.expanduser("~")}/.tmp"
         try:
             os.mkdir(self.ctx.tmp_folder)
         except:
