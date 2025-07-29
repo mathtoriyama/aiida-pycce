@@ -45,6 +45,6 @@ Check out the `HT_2D_Hosts.py` script in the `examples` folder.
 
 Acknowledgements
 ================
-Add later.
+This work was supported by the Midwest Integrated Center for Computational Materials (MICCoM). MICCoM is part of the Computational Materials Sciences Program funded by the U.S. Department of Energy, Office of Science, Basic Energy Sciences, Materials Sciences, and Engineering Division through the Argonne National Laboratory, under contract No. DEAC02-06CH11357.
 
 
