@@ -6,7 +6,7 @@ AiiDA-PyCCE is a plugin for running the [PyCCE](https://pycce.readthedocs.io/en/
 If you use AiiDA-PyCCE, please remember to cite:
 
 - *Strategies to search for two-dimensional materials with long spin qubit coherence time*
-[M.Y. Toriyama, et al., arXiv:2509.00222 (2025)](https://arxiv.org/abs/2509.00222)
+[M.Y. Toriyama, et al., npj 2D Mater. Appl., 9, 108 (2025)](https://www.nature.com/articles/s41699-025-00623-8)
 
 Please also remember to cite:
 
