@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> **AiiDA-PyCCE** has been moved to the MICCoM organization and can be found at **[https://github.com/MICCoMpy/aiida-pycce](https://github.com/MICCoMpy/aiida-pycce)**.
+> Updates will be made in the new repository from now on.
+> This repository has been archived and will no longer be maintained.
+
+
 Welcome to AiiDA-PyCCE!
 =======================
 
